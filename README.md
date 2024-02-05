@@ -1,4 +1,4 @@
-# ANN-architecture-performance
+# ANN architecture prediction performance analysis.
 Assessing the Impact of Architecture Variations on Artificial Neural Network (ANN) Prediction Performance.
 
 These are - in a nutshell - the main bullet points that have been approached:
